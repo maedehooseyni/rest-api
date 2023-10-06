@@ -1,0 +1,71 @@
+{
+  "cities": [],
+  "cards": [
+    {
+      "hotelName": "St.James' Court, A Tag Hotel",
+      "cityName": "England",
+      "hotel ranking": "Wonderful",
+      "reviews": "1,007 reviews",
+      "price": 296,
+      "off": 20,
+      "traveler": "2 travelers",
+      "image": "St.James' Court, A Tag Hotel, Londen.jpg",
+      "id": 63356091,
+      "score": "8.9",
+      "rating": "Excellent"
+    },
+    {
+      "hotelName": "Trump International Hotel ",
+      "cityName": "Paradise",
+      "hotel ranking": "Wonderful",
+      "reviews": "1,012 reviews",
+      "price": 307,
+      "off": 16,
+      "traveler": "3 travelers",
+      "image": "Trump International Hotel Las Vegas1.jpg",
+      "id": 13244478,
+      "score": "8.4",
+      "rating": "Very good"
+    },
+    {
+      "hotelName": "The Mirage Hotel & Casino",
+      "cityName": "Las Vegas",
+      "hotel ranking": "Wonderful",
+      "reviews": "1,006 reviews",
+      "price": 118,
+      "off": 15,
+      "traveler": "4 travelers",
+      "image": "The Mirage Hotel & Casino.jpg",
+      "id": 29676623,
+      "score": "7.5",
+      "rating": "Good"
+    },
+    {
+      "hotelName": "Smyth Tribeca",
+      "cityName": "New York",
+      "hotel ranking": "Excellent",
+      "reviews": "2,295 reviews",
+      "price": 431,
+      "off": 20,
+      "traveler": "5 travelers",
+      "image": "Smyth Tribeca.jpg",
+      "id": 23099058,
+      "score": "9.0",
+      "rating": "Excellent"
+    },
+    {
+      "hotelName": "Turing Locke",
+      "cityName": "Cambridge",
+      "hotel ranking": "Excellent",
+      "reviews": "2,295 reviews",
+      "price": 186,
+      "off": 30,
+      "traveler": "6 travelers",
+      "image": "Turing Locke1.jpg",
+      "id": 25599088,
+      "score": "9.0",
+      "rating": "Wonderful"
+    }
+  ],
+  "bookmarks": []
+}
